@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DiasProjectUser.API",
+    "\\DiasProjectUser.API\\Controllers",
+    "\\DiasProjectUser.Business",
+    "\\DiasProjectUser.Business\\Abstract",
+    "\\DiasProjectUser.Business\\Concrete",
+    "\\DiasProjectUser.DataAccess",
+    "\\DiasProjectUser.DataAccess\\Concrete",
+    "\\DiasProjectUser.WEBAPI",
+    "\\DiasProjectUser.WEBAPI\\Controllers"
+  ],
+  "SelectedNode": "\\DiasTestAPI.sln",
+  "PreviewInSolutionExplorer": false
+}
